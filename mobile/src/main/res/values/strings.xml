@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">BinaryWatchFace</string>
+
+    <!-- Actions -->
+    <string name="action_round">Round</string>
+    <string name="action_ambient_mode">Ambient Mode</string>
+    <string name="action_low_bit_ambient">Low Bit Ambient</string>
+    <string name="action_burn_in_protection">Burn in Protection</string>
+    <string name="action_mute_mode">Mute Mode</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BinaryWatchFace</string>
+    <string name="binary_name">Binary</string>
+</resources>

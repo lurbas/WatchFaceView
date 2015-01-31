@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_round"
+        android:title="@string/action_round"
+        android:orderInCategory="100"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ambient_mode"
+        android:title="@string/action_ambient_mode"
+        android:orderInCategory="200"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_low_bit_ambient"
+        android:title="@string/action_low_bit_ambient"
+        android:orderInCategory="300"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_burn_in_protection"
+        android:title="@string/action_burn_in_protection"
+        android:orderInCategory="400"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mute_mode"
+        android:title="@string/action_mute_mode"
+        android:orderInCategory="500"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+</menu>
